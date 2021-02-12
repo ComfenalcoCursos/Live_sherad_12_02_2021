@@ -1,0 +1,13 @@
+
+Nombre_de_la_carpeta: Live_sherad_12_02_2021
+Para_cear_el_link_en_git: gh-pages
+
+Nombre: Miguel Angel Castro Escamilla
+
+Edad: 23
+
+
+Perfil profecional: Soy una persona muy alegrese me gusta la programacion
+y me pasione enseñar todo lo que es la tecnologia
+
+email: proyeccionsocial@unc.edu.co
